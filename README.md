@@ -6,7 +6,7 @@ Chào mừng các bạn đến với Series : "Conan Detective" =))
 </h2>
 <p style="margin-left:15px"> 
 Việc đầu tiên mình làm sau khi xem xong đoạn video là đọc comment của cái blog này, và điều bất ngờ là đa phần là người Việt vào bình luận =)) Và người Việt bình luận thì các bạn biết rồi đấy =))) Chủi um xùm cả lên khi chưa biết câu chuyện như nào =)) 
-<img src="https://github.com/TrisKnightGamer/Conan-Detective/blob/master/4.png"> Nhìn có chán không cơ chứ =)) </img> 
+<img src="https://github.com/TrisKnightGamer/Conan-Detective/blob/master/4.png"> <p align="center">Nhìn có chán không cơ chứ =))</p> </img> 
 </p>
 
 <p style="margin-left:15px"> 
