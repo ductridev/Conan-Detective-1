@@ -41,8 +41,8 @@ Và hết.. Ý là hết ai khả nghi rồi =))) Mình tiếp tục xem các b�
 Nhưng xem tiếp, thì mình chỉ thấy có 2 người có ảnh trên này, còn người thứ 3 thì vẫn là 1 bí ẩn 
 </p>
 <img style="flex: 33.33%;padding: 5px;" src="https://github.com/TrisKnightGamer/Conan-Detective/blob/master/1.png"></img>
-<img style="flex: 33.33%;padding: 5px;" src="https://github.com/TrisKnightGamer/Conan-Detective/blob/master/2.png"></img> 
-<img style="flex: 33.33%;padding: 5px;" src="https://github.com/TrisKnightGamer/Conan-Detective/blob/master/3.png"></img> 
+<img style="flex: 33.33%;padding: 5px;" src="https://github.com/TrisKnightGamer/Conan-Detective/blob/master/2.jpg"></img> 
+<img style="flex: 33.33%;padding: 5px;" src="https://github.com/TrisKnightGamer/Conan-Detective/blob/master/3.jpg"></img> 
 
 <p style="margin-left:15px">Sau khi xác nhận trên Facebook không còn dữ kiện nào nữa thì mình chuyển sang xem Youtube và không có một thông tin gì thêm cả. Và tiếp tục có một bất ngờ xuất hiện, mặc dù kênh này đăng rất nhiều video có chứa hình ảnh nhạy cảm nhưng vẫn có thể tồn tại trên Youtube, mình đã report kênh này với Youtube, không biết sẽ ra sao đây xD.<img src="https://github.com/TrisKnightGamer/Conan-Detective/blob/master/13.png"></img> 
 </p>
