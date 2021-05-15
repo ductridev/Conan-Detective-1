@@ -14,20 +14,20 @@ Việc đầu tiên mình làm sau khi xem xong đoạn video là đọc comment
 <p style="margin-left:15px"> 
 Và sau khi đọc một vài câu chửi quen thuộc thì mình đọc được câu chuyện như sau : 
 </p>
-<img src="https://github.com/TrisKnightGamer/Conan-Detective/blob/master/5.png"></img>
 
 <p style="margin-left:15px">
 Đại khái câu chuyện là nói về một người phụ nữ mang tên Nara Aline De Lima nằm trong một vụ buôn bán ma túy giữa 2 bang phái đối địch nhau ở Barra Do Ceara ( Một vùng lãnh thổ của Brazil) là GDE và cô gái Nara Aline đại diện cho bang phái thứ 2, sau đó Nara Aline bị bang phái GDE truy sát, bọn chúng lên kế hoạch đến nhà cô để thực hiện vụ bắt cóc, không may vào lúc đó có 2 người bạn của cô ấy là Dorcielle Ancelme De Alencar(31 tuổi) và Inggrid Texeira Ferreira(32 tuổi) nên đã bắt cả 2 đi cùng, và kết cục là Nara Aline bị b*n, còn 2 người bạn cô thì bị ch*t thành trăm mảnh, khiến cho cảnh sát khó khăn trọng việc nhận dạng 2 người. Về phần câu chuyện này thì mình cũng chẳng dám khẳng định rằng nó có đúng hay không, có xác thực hay không vì mình đã tìm trên bác thám tử Google và chẳng thấy một thông tin nào về vụ án này.
 </p>
+<img src="https://github.com/TrisKnightGamer/Conan-Detective/blob/master/5.png"></img>
 
 <p style="margin-left:15px">
-Sau khi đọc xong cái này, mình lại lướt lên đầu trang để tìm kiếm thông tin về người chủ của Blog này thì phát hiện ra 2 dòng "My Youtube" và "My Facebook", và mình đã vào xem Facebook trước. Theo thói quen thông thường, mình sẽ xem ảnh đại diện trước và nhận thấy một điều bất ngờ: "Quaooo, ai đó đã thả tim bức ảnh này và nó có nghĩa đó rất có thể là người chủ trang này." Mình nhấn vào xem thì bất ngờ là người duy nhất bình luận và cũng là người duy nhất thả tim cho bức ảnh đại diện này 
+Sau khi đọc xong cái này, mình lại lướt lên đầu trang để tìm kiếm thông tin về người chủ của Blog này thì phát hiện ra 2 dòng "My Youtube" và "My Facebook", và mình đã vào xem Facebook trước. Theo thói quen thông thường, mình sẽ xem ảnh đại diện trước và nhận thấy một điều bất ngờ: "Quaooo, ai đó đã thả tim bức ảnh này và nó có nghĩa đó rất có thể là người chủ trang này.". Mình nhấn vào xem thì bất ngờ là người duy nhất bình luận và cũng là người duy nhất thả tim cho bức ảnh đại diện này 
 </p>
 <img src="https://github.com/TrisKnightGamer/Conan-Detective/blob/master/7.png"></img> 
 <img src="https://github.com/TrisKnightGamer/Conan-Detective/blob/master/8.png"></img>
 
 <p style="margin-left:15px">
-Và các bạn biết gì không, sau khi mình nhấn vào thì:"Quaooo, cùng là 1 người", sau đó mình đã vào xem và đúng thật, đó là người chủ trang này và có thể là chủ luôn của cái Blog kia xD Sau đó mình thấy có để tài khoản Instagram, vào xem thử nào, và đó là một tài khoản Private, mình đã request nhưng vẫn chưa thấy phản hồi =(( 
+Và các bạn biết gì không, sau khi mình nhấn vào thì:"Quaooo, cùng là 1 người", sau đó mình đã vào xem và đúng thật, đó là người chủ trang này và có thể là chủ luôn của cái Blog kia xD. Sau đó mình thấy có để tài khoản Instagram, vào xem thử nào, và đó là một tài khoản Private, mình đã request nhưng vẫn chưa thấy phản hồi =(( 
 </p>
 
 <p style="margin-left:15px">
@@ -37,7 +37,7 @@ Sau đó mình tiếp tục xem những người còn lại chỉ like bức ả
 <img style="flex: 33.33%;padding: 5px;" src="https://github.com/TrisKnightGamer/Conan-Detective/blob/master/11.png"></img>
 
 <p style="margin-left:15px">
-Và hết.. Ý là hết ai khả nghi rồi =))) Mình tiếp tục xem các bức ảnh khác và nhận ra có 3 người tất cả là chủ của trang này 
+Và hết.. Ý là hết ai khả nghi rồi =))) Mình tiếp tục xem các bức ảnh khác và nhận ra có 3 người tất cả là chủ của trang này.
 Nhưng xem tiếp, thì mình chỉ thấy có 2 người có ảnh trên này, còn người thứ 3 thì vẫn là 1 bí ẩn 
 </p>
 <img style="flex: 33.33%;padding: 5px;" src="https://github.com/TrisKnightGamer/Conan-Detective/blob/master/1.png"></img>
