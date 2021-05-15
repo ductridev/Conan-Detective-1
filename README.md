@@ -8,14 +8,15 @@ Chào mừng các bạn đến với Series : "Conan Detective" =))
 Việc đầu tiên mình làm sau khi xem xong đoạn video là đọc comment của cái blog này, và điều bất ngờ là đa phần là người Việt vào bình luận =)) Và người Việt bình luận thì các bạn biết rồi đấy =))) Chủi um xùm cả lên khi chưa biết câu chuyện như nào =)) 
 </p>
 <img src="https://github.com/TrisKnightGamer/Conan-Detective/blob/master/4.png"> </img> 
-<p align="center">Nhìn có chán không cơ chứ =))</p>
+
+<p style="margin-left:15px">Nhìn có chán không cơ chứ =))</p>
 
 <p style="margin-left:15px"> 
 Và sau khi đọc một vài câu chửi quen thuộc thì mình đọc được câu chuyện như sau : 
 </p>
 <img src="https://github.com/TrisKnightGamer/Conan-Detective/blob/master/5.png"></img>
 
-<p>
+<p style="margin-left:15px">
 Đại khái câu chuyện là nói về một người phụ nữ mang tên Nara Aline De Lima nằm trong một vụ buôn bán ma túy giữa 2 bang phái đối địch nhau ở Barra Do Ceara ( Một vùng lãnh thổ của Brazil) là GDE và cô gái Nara Aline đại diện cho bang phái thứ 2, sau đó Nara Aline bị bang phái GDE truy sát, bọn chúng lên kế hoạch đến nhà cô để thực hiện vụ bắt cóc, không may vào lúc đó có 2 người bạn của cô ấy là Dorcielle Ancelme De Alencar(31 tuổi) và Inggrid Texeira Ferreira(32 tuổi) nên đã bắt cả 2 đi cùng, và kết cục là Nara Aline bị b*n, còn 2 người bạn cô thì bị ch*t thành trăm mảnh, khiến cho cảnh sát khó khăn trọng việc nhận dạng 2 người. Về phần câu chuyện này thì mình cũng chẳng dám khẳng định rằng nó có đúng hay không, có xác thực hay không vì mình đã tìm trên bác thám tử Google và chẳng thấy một thông tin nào về vụ án này.
 </p>
 
@@ -25,7 +26,7 @@ Sau khi đọc xong cái này, mình lại lướt lên đầu trang để tìm 
 <img src="https://github.com/TrisKnightGamer/Conan-Detective/blob/master/7.png"></img> 
 <img src="https://github.com/TrisKnightGamer/Conan-Detective/blob/master/8.png"></img>
 
-<p>
+<p style="margin-left:15px">
 Và các bạn biết gì không, sau khi mình nhấn vào thì:"Quaooo, cùng là 1 người", sau đó mình đã vào xem và đúng thật, đó là người chủ trang này và có thể là chủ luôn của cái Blog kia xD Sau đó mình thấy có để tài khoản Instagram, vào xem thử nào, và đó là một tài khoản Private, mình đã request nhưng vẫn chưa thấy phản hồi =(( 
 </p>
 
